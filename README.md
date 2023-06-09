@@ -6,4 +6,5 @@ Encryption is the process of converting information into a hash code or a cipher
 You can build a simple web application to encrypt and decrypt textual information that the user keys in. Remember that strong encryption should produce different outputs even given the same input.
 
 
+
 The technology used in the example: are Node.js and JavaScript.
